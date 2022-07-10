@@ -52,4 +52,21 @@ http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 - Calculating the correlation for one variable at a time is called univariate feature selection
 
 
+**Pearson Method**
+
+![image](https://user-images.githubusercontent.com/69100847/178136148-20d267b6-9166-40e0-86bc-e7cec95f4b2f.png)
+
+**Setting Threshold for Correlation Value**
+
+![image](https://user-images.githubusercontent.com/69100847/178136413-177e1cbb-5849-4793-ab42-b6356746637a.png)
+
+**Collecting Features with Correlation Value graater than 0.2**
+
+![image](https://user-images.githubusercontent.com/69100847/178136438-2818e90f-3d7b-4990-8364-29adf51b49eb.png)
+
+**Evaluating Model on New Selected Features**
+
+![image](https://user-images.githubusercontent.com/69100847/178136460-f1ac0a4b-e49d-46a3-97da-09f66bd7a105.png)
+
+- It can be seen that the RandomForestClassifier model performed better after selecting the strongest correlation variables
 
