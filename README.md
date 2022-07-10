@@ -82,3 +82,28 @@ http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 - It can be seen from the results that removing the redundant features doesn't lead to any performance degradation as they don't provide any useful information
 
+**Univariate Selection with SciKit Learn**
+
+- We will use Anova F test to select the 20 most important features as shown below
+
+![image](https://user-images.githubusercontent.com/69100847/178138494-cf915539-0168-4362-b9d7-7ddd627464f4.png)
+
+**Wrapper Methods**
+
+- Wrapper Methods use models to calculate how many features to be selected.
+- Forward selection adds features until model ceases to improve.
+- Backward selection removes features until model performance degrades
+- Recursive Feature Elimination: Kind of Backward selection but it removes features based on their importance
+
+Below is a snippet of the code used to implement recursive feature elimination as follows
+
+![image](https://user-images.githubusercontent.com/69100847/178138613-83c6c2cd-e516-46fa-9fe6-f83bc80a5b80.png)
+
+**Results**
+
+This project explored different techniques for feature selection with the Breast Cancer Data. The table below summarizes the results from the project
+
+![image](https://user-images.githubusercontent.com/69100847/178138694-60d9cf17-d728-4e18-82e4-2e116392b2e4.png)
+
+
+
