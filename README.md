@@ -2,16 +2,12 @@
 This project investigates different techniques for feature selection utilizing filter, wrapper and embedded methods to increase the descriptive nature of the features and reduce the space of the feature vector
 
 **Dataset**
-
 http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 **Explaratory Data Analysis**
-
 ![image](https://user-images.githubusercontent.com/69100847/178135617-f15b2d81-adcb-4e05-8fd8-82f2a9051af0.png)
 
-
 **Checking datatypes**
-
 ![image](https://user-images.githubusercontent.com/69100847/178135642-504ae499-2892-47a8-84f5-8d6542158161.png)
 
 
