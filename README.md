@@ -78,7 +78,7 @@ http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 **Removing The Redundant Features**
 
-![image](https://user-images.githubusercontent.com/69100847/178136648-80aa322e-5356-4285-9b3b-550fa94c40df.png)
+![image](https://user-images.githubusercontent.com/69100847/178136704-3358e4a8-26be-41c6-ba6e-6b826e4f313c.png)
 
-
+- It can be seen from the results that removing the redundant features doesn't lead to any performance degradation as they don't provide any useful information
 
