@@ -70,3 +70,15 @@ http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 - It can be seen that the RandomForestClassifier model performed better after selecting the strongest correlation variables
 
+**Correlation between features (Unsupervised Feature Selection)**
+
+![image](https://user-images.githubusercontent.com/69100847/178136614-53a4860d-2534-4331-b579-53a66327e411.png)
+
+- it can be seen from the above heat map the strong correlation that exists in the features presented
+
+**Removing The Redundant Features**
+
+![image](https://user-images.githubusercontent.com/69100847/178136648-80aa322e-5356-4285-9b3b-550fa94c40df.png)
+
+
+
