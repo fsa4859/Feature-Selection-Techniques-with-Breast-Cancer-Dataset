@@ -39,5 +39,3 @@ This project investigates different techniques for feature selection utilizing f
 
 ![image](https://user-images.githubusercontent.com/69100847/178135761-f0e641aa-6cd5-467e-ba93-11d10a8bd21e.png)
 
-
-
