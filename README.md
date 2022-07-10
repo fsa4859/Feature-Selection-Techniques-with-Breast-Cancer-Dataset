@@ -72,8 +72,8 @@ http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 **Correlation between features (Unsupervised Feature Selection)**
 
+![image](https://user-images.githubusercontent.com/69100847/178136788-3bd3f88b-bd9d-402e-bb79-c8578624da6f.png)
 
-![image](https://user-images.githubusercontent.com/69100847/178136614-53a4860d-2534-4331-b579-53a66327e411.png)
 - it can be seen from the above heat map the strong correlation that exists in the features presented
 
 **Removing The Redundant Features**
