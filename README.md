@@ -42,12 +42,14 @@ http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 **Filter Methods**
 
 1- Statistical pearson Test (Used for numerical features and numerical target)
+
 2- Anova f_test: used for numerical features and categorical target
+
 3- Chi squared: used for categorical features and categorical target
 
-Using correlation with regard to the target variable is called supervised feature selection
+- Using correlation with regard to the target variable is called supervised feature selection
 
-Calculating the correlation for one variable at a time is called univariate feature selection
+- Calculating the correlation for one variable at a time is called univariate feature selection
 
 
 
