@@ -3,12 +3,12 @@ This project investigates different techniques for feature selection utilizing f
 
 **Dataset**
 
-![image](https://user-images.githubusercontent.com/69100847/178135832-6c22fb86-6085-480f-8da4-f3ea7709b90d.png)
-
+http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+%28diagnostic%29
 
 **Explaratory Data Analysis**
 
-![image](https://user-images.githubusercontent.com/69100847/178135617-f15b2d81-adcb-4e05-8fd8-82f2a9051af0.png)
+![image](https://user-images.githubusercontent.com/69100847/178135953-68941da7-9113-4a24-b6bd-940d89a96014.png)
+
 
 **Checking datatypes**
 
